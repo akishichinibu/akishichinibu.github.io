@@ -9,7 +9,7 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'Axitinib',
   subtitle: 'Demo Site',
-  lang: 'zh_CN',
+  lang: 'ja',
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'https://avatars.githubusercontent.com/u/58929879',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'akishichinibu',
+  name: 'Axitinib',
   bio: 'Fullstack Developer @Tokyo',
   links: [
     {
