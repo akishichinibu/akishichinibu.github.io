@@ -1,4 +1,4 @@
-FUWARI_ROOT := $(PWD)/fuwari
+FUWARI_ROOT := $(PWD)/fuwari2
 FUWARI_CONTENT := $(FUWARI_ROOT)/src/content
 
 prepare/%:
